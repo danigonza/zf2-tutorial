@@ -37,6 +37,44 @@ Tutorial
 
 You can follow this tutorial here: http://zf2.readthedocs.org/en/latest/user-guide/overview.html
 
+Album Module
+------------
+
+1.   Create the Module class for the Album module
+2.   Create the autoload_classmap file
+3.   Create the module.config file
+4.   Update the application config file
+
+Routing and controllers
+-----------------------
+
+1.  Add the routes for the specific controller & actions
+2.  Create the controller
+
+Database and models
+-------------------
+
+1.  Create the database and the tables
+2.  Create the entity models
+3.  Crete the TableGateway classes
+4.  Configure Service Manager
+5.  Configure the connection with the db (global parameters and local parameters)
+
+Styling and Translations
+------------------------
+
+1.  Add lang strings
+2.  Modify app layout
+
+Forms and actions
+-----------------
+
+1.  Create forms
+2.  Add the filter and validators to the entity model
+3.  Call form from controllerer's actions
+4.  Render forms in views
+5.  Force to show list in app index
+
 
 
 
