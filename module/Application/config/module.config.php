@@ -117,6 +117,10 @@ return array(
     								),
     						),
     				),
+    				array(
+    						'label' => 'Contact',
+    						'route' => 'contact',
+    				),
     		),
     ),
 );
