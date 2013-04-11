@@ -104,6 +104,14 @@ To work with doctrine2 in this tutorial I followeed this:
 4.  Install zendframework-developer-tools 
 
 
+Adding Navigation [Branch navigation](https://github.com/danigonza86/zf2-tutorial/tree/navigation)
+----------------------
 
+Follow this tutorial: http://zf2.readthedocs.org/en/latest/tutorials/tutorial.navigation.html
 
+1.  Preparation
+2.  Setting Up Zend\Navigation
+3.  Configuring our Site Map
+4.  Adding the Menu View Helper
+5.  Adding Breadcrumbs
 
