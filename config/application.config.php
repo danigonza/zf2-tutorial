@@ -13,6 +13,7 @@ return array(
     	'Album',
     	'PhlyContact',
     	'PhlySimplePage',
+    	'Auth',
     ),
 
     // These are various options for the listeners attached to the ModuleManager
