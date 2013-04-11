@@ -3,7 +3,7 @@ zf2-tutorial
 
 Zend Framework 2 Akrabat Tutorial
 
-Install zf2 skeleton app
+Install zf2 skeleton app [Git Tag: zf-tutorial](https://github.com/danigonza86/zf2-tutorial/tree/zf2-tutorial)
 ------------------------
 
 ### Download composer ###
@@ -75,7 +75,33 @@ Forms and actions
 4.  Render forms in views
 5.  Force to show list in app index
 
+Testing with phpunit [Git Tag: zf-tutorial-phpunit](https://github.com/danigonza86/zf2-tutorial/tree/zf2-tutorial-phpunit)
+--------------------
 
+Follow the steps in this tutorial: http://zf2.readthedocs.org/en/latest/tutorials/unittesting.html
+
+1.  Setting up the tests directory
+2.  Bootstrapping your tests
+3.  Your first Controller test
+4.  A failing test case
+5.  Configuring the service manager for the tests
+6.  Testing actions with POST
+7.  Testing model entities
+8.  Testing model tables
+
+Working with Doctrine2 [Git Tag: zf-tutorial-Doctrine2](https://github.com/danigonza86/zf2-tutorial/tree/zf2-tutorial-Doctrine2)
+----------------------
+
+To work with doctrine2 in this tutorial I followeed this:
+
+1.  Jason Grimes tutorial: http://www.jasongrimes.org/2012/01/using-doctrine-2-in-zend-framework-2/
+2.  Marco Pivetta slides: http://marco-pivetta.com/doctrine-orm-zf2-tutorial/
+3.  To verify, this bitbucket repo: https://bitbucket.org/anjheu/zf2_doctrine2
+
+1.  Install Doctrine modules
+2.  Create the Album entity  
+3.  Update the Album controller to use Doctrine instead of Zend_Db  
+4.  Install zendframework-developer-tools 
 
 
 
