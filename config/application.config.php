@@ -7,6 +7,7 @@ return array(
     	'DoctrineORMModule',
     	'ZendDeveloperTools',
     	'Album',
+    	'PhlyContact'
     ),
 
     // These are various options for the listeners attached to the ModuleManager
