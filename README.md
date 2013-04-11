@@ -117,8 +117,14 @@ Follow this tutorial: http://zf2.readthedocs.org/en/latest/tutorials/tutorial.na
 4.  Adding the Menu View Helper
 5.  Adding Breadcrumbs
 
-Add a Contact Form  [Branch contactForm](https://github.com/danigonza86/zf2-tutorial/tree/contactForm)
+Add a Contact Form [Branch contactForm](https://github.com/danigonza86/zf2-tutorial/tree/contactForm)
 ----------------------
 
 Add a contact form to the zf2-tutorial using the [PhlyContact module](https://github.com/weierophinney/PhlyContact).
 To install and configure it, follow this tutorial: http://www.mwop.net/blog/2012-09-19-zf2-module-screencast.html
+
+
+Add a Static Page [Branch staticPages](https://github.com/danigonza86/zf2-tutorial/tree/staticPages)
+----------------------
+Add the [PhlySimplePage module](https://github.com/weierophinney/PhlySimplePage) to add static pages to our application.
+Follow the steps of the Readme to use it.
