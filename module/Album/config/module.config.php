@@ -23,6 +23,16 @@ return array(
 										),
 								),
 						),
+						'home' => array(
+								'type' => 'Zend\Mvc\Router\Http\Literal',
+								'options' => array(
+										'route'    => '/',
+										'defaults' => array(
+												'controller' => 'Application\Controller\Index', // <-- change back here
+												'action'     => 'index',
+										),
+								),
+						),
 				),
 		),
 		'view_manager' => array(
