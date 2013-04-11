@@ -1,6 +1,8 @@
 zf2-tutorial
 ============
 
+[![Build Status](https://travis-ci.org/danigonza86/zf2-tutorial.png)](https://travis-ci.org/danigonza86/zf2-tutorial)
+
 Zend Framework 2 Akrabat Tutorial
 
 Install zf2 skeleton app [Git Tag: zf-tutorial](https://github.com/danigonza86/zf2-tutorial/tree/zf2-tutorial)
