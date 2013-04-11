@@ -9,10 +9,14 @@
     "homepage": "http://framework.zend.com/",
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": "2.*",
+        "zendframework/zendframework": "dev-master",
+        "zendframework/zftool": "dev-master", 
         "doctrine/doctrine-orm-module": "dev-master",
         "zendframework/zend-developer-tools": "dev-master",
         "phly/phly-contact": "dev-master",
-        "phly/phly-simple-page": "dev-master"
+        "phly/phly-simple-page": "dev-master",
+        "zf-commons/zfc-user": "0.1.*",
+        "zf-commons/zfc-user-doctrine-orm": "dev-master",
+        "bjyoungblood/bjy-authorize": "dev-master"
     }
 }
