@@ -94,9 +94,9 @@ Working with Doctrine2 [Git Tag: zf-tutorial-Doctrine2](https://github.com/danig
 
 To work with doctrine2 in this tutorial I followeed this:
 
-1.  Jason Grimes tutorial: http://www.jasongrimes.org/2012/01/using-doctrine-2-in-zend-framework-2/
-2.  Marco Pivetta slides: http://marco-pivetta.com/doctrine-orm-zf2-tutorial/
-3.  To verify, this bitbucket repo: https://bitbucket.org/anjheu/zf2_doctrine2
+*   Jason Grimes tutorial: http://www.jasongrimes.org/2012/01/using-doctrine-2-in-zend-framework-2/
+*   Marco Pivetta slides: http://marco-pivetta.com/doctrine-orm-zf2-tutorial/
+*   To verify, this bitbucket repo: https://bitbucket.org/anjheu/zf2_doctrine2
 
 1.  Install Doctrine modules
 2.  Create the Album entity  
