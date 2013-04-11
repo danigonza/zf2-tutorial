@@ -21,6 +21,16 @@ return array(
                     ),
                 ),
             ),
+        	'about' => array(
+        			'type' => 'Literal',
+        			'options' => array(
+        					'route' => '/about',
+        					'defaults' => array(
+        							'controller' => 'PhlySimplePage\Controller\Page',
+        							'template'   => 'application/pages/about',
+        					),
+        			),
+        	),
             // The following is a route to simplify getting started creating
             // new controllers and actions without needing to create a new
             // module. Simply drop new controllers in, and you can access them
