@@ -107,6 +107,10 @@ return array(
     						'route' => 'home',
     				),
     				array(
+    						'label' => 'About',
+    						'route' => 'about',
+    				),
+    				array(
     						'label' => 'Album',
     						'route' => 'album',
     						'pages' => array(
